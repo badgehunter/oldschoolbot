@@ -2,7 +2,7 @@
 title: "Pets"
 ---
 
-There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `/gear pet equip:name`\*\*\` and in most cases, only one pet's effect can be active at once. All pets with a per minute drop rate can only be obtained on trips that are at least 20 minute long.
+There are pets exclusive to BSO that provide unique and powerful perks and are rare drops from certain activities. These custom pets must equipped using `/gear pet equip:name` and in most cases, only one pet's effect can be active at once. All pets with a per minute drop rate can only be obtained on trips that are at least 20 minute long.
 
 ## Trip boosting Pets
 
@@ -52,8 +52,8 @@ No Voidling equip and no magic master cape equipped: 1/6 - 1/7 regular speed.
 
 > These pets are discontinued and were rewards from certain events. You can now only obtain them by buying them from other players. Ironmen can get some of these from Pet Mystery Boxes.
 
-{% tabs %}
-{% tab title="Perks" %}
+
+### Perks
 | Name | Perk | Source |
 | -------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | Smokey | 10% chance of an extra roll when opening boxes\*1/450 minutes chance of bringing back a box | 2020 Christmas Event |
@@ -61,9 +61,8 @@ No Voidling equip and no magic master cape equipped: 1/6 - 1/7 regular speed.
 | Cob | 2x Sepulchre speed2x Nightmare speed | 2020 Halloween Event |
 | Gregoyle | 20% boost to gargoyles and Grotesque Guardians | [2021 Halloween Event](../events/halloween-2021.md) |
 | Kuro | 5% boost to Gnome Restaurant and Ourania delivery service | 2022 Halloween Event |
-{% endtab %}
 
-{% tab title="No perks" %}
+### No perks
 | Name | Source |
 | ----------------- | ---------------------------------------------------------------- |
 | Hoppy | 2021 Easter Event |
@@ -80,8 +79,6 @@ No Voidling equip and no magic master cape equipped: 1/6 - 1/7 regular speed.
 | Casper | 2023 Halloween event |
 | Mini Mortimer | 2023 Halloween event |
 | Rudolph | 2023 Christmas event |
-{% endtab %}
-{% endtabs %}
 
 Notes:\*Smokey does not have to be equipped for this perk.\
 ±Invention provides this perk in the form of [RoboFlappy](../skills/invention/#inventions).
@@ -90,7 +87,6 @@ Notes:\*Smokey does not have to be equipped for this perk.\
 
 <summary>Flappy/RoboFlappy perks</summary>
 
-- Kourend Favour
 - Volcanic Mine
 - Fist of Guthix
 - Ourania Delivery Service
